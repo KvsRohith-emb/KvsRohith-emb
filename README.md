@@ -1,4 +1,13 @@
 ## Hi there 👋
+🎓 B.Tech ECE | Embedded Systems Trainee at Vector India
+
+💡 Passionate about low-level programming, microcontrollers, and real-time systems
+
+👨‍💻 Projects on LPC2129/2148 using C, UART, Timers, LCD, Keypad, and FSMs
+
+🚀 Aspiring Embedded Software Engineer | Always learning, always building
+
+📍India | 💻 rohithkanamarlapudi2@gmail.com
 
 <!--
 **KvsRohith-emb/KvsRohith-emb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
